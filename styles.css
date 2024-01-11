@@ -1,0 +1,44 @@
+body {
+    margin: 20px;
+    /*
+     * Challenge:
+     * identify a preferable web safe font and add to card
+     */
+}
+
+.avatar {
+    width: 150px;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #ff5d8f;
+    color: #2b2839;
+    border-bottom: 6px solid #ff0A54;
+    border-radius: 20px;
+
+    /*
+     * challenge:
+     * Identify color preferred on color.co
+     * use in business card
+     */
+}
+
+.border-blue {
+    border: 1px dotted blue;
+}
+
+/*
+ * goals:
+ * Identify ways to personalize the business cards' designs
+ * - change border color
+ * - add border radius
+ * - shuffle layout
+ * - hover effects
+ * - animations
+ */
